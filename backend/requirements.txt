@@ -1,0 +1,11 @@
+pandas
+sqlalchemy
+pymysql
+pytesseract
+pillow
+FastAPI
+Uvicorn
+mysql-connector-python
+pdfplumber
+Pillow
+python-multipart
